@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### Fixed
+
+- Export `Layout` class and `elementLayout` function for external use
+
 ## [0.7.5] - 2023-11-17
 
 ### Fixed

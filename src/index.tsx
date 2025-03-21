@@ -9,6 +9,7 @@ export { createSortable } from "./create-sortable";
 export { layoutStyle, transformStyle, maybeTransformStyle } from "./style";
 export { closestCenter, closestCorners, mostIntersecting } from "./collision";
 export { DragDropDebugger } from "./drag-drop-debugger";
+export { Layout, elementLayout } from "./layout";
 export type {
   Id,
   DragEventHandler,
